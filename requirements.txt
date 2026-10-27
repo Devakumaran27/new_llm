@@ -8,3 +8,8 @@ groq
 
 
 python-multipart
+
+
+
+pymupdf
+easyocr
